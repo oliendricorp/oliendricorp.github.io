@@ -1,5 +1,5 @@
 # Site settings
-title: Oli Endri Corp.
+title: OTE
 email: zbddcawq@6paq.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,8 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oliendricorp.github.io/" # the base hostname & protocol for your site
 
 # User setting
-owner: oliendricorp
-email: zbddcawq@6paq.com
+owner: OTE
+email: oteconstruction@oteconstruction.al
 facebook_username:
 twitter_username:
 github_username: oliendricorp
@@ -18,8 +18,8 @@ address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: +355 67 2000 200
+copyright: OTE Team
 
 # API settings
 google_api_key:
