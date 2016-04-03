@@ -1,8 +1,8 @@
 # Template for OTE using jekyll
 
-A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+A Jekyll implementation of the  OTE website.
 
-See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
+See the site in action at https://www.oliendricorp.github.io/
 
 ## To use the Template in your project
 
