@@ -14,9 +14,10 @@ email: oteconstruction@oteconstruction.al
 facebook_username:
 twitter_username:
 github_username: oliendricorp
-address:
-  - line:
-  - line:
+address: Rruga Ismail Qemali, Tirana, Albania
+location: Tirana Albania
+longtitude: 41.3206668
+latitude: 19.814966
   # Feel free to add more lines here 
 telephone: +355 67 2000 200
 copyright: OTE Team
